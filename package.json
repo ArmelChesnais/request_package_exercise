@@ -1,0 +1,22 @@
+{
+  "name": "request-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmelChesnais/http_request_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmelChesnais/http_request_exercise/issues"
+  },
+  "homepage": "https://github.com/ArmelChesnais/http_request_exercise#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
